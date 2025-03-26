@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Shryansh107](https://github.com/Shryansh107)  
 - 💬 Ask me about **React, Next.js, Node.js, Kubernetes, and DevOps**  
 - 📫 How to reach me **shryansh2024@gmail.com**  
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1KOEwjCzJ5U7J0vKCN0yhWkjZ6t4prXaK/view)  
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Ka-sZKUb0qMCkHoX098esYbFQByaxXBg/view)  
 - ⚡ Fun fact **I love debugging complex systems & automating workflows**  
 
 <h3 align="left">Connect with me:</h3>
