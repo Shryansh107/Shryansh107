@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shryansh Chaudhary</h1>
-<h3 align="center">A Passionate Full-Stack Developer & Open Source Contributor</h3>
+<h3 align="center">21 • Curiosity drives me into deep rabitholes • Engineering Grad Final year @NITH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shryansh107&label=Profile%20views&color=0e75b6&style=flat" alt="Shryansh107" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shryansh107&theme=onedark" alt="Shryansh107" /></a> </p>
-
-- 🔭 I’m currently working as **Founding Engineer at AtomInfra**  
-- 🌱 I’m currently learning **Advanced DevOps & Cloud Management**  
+  
+- 🌱 Currently Curious and learning  **Blockchain**  
 - 👨‍💻 All of my projects are available at [https://github.com/Shryansh107](https://github.com/Shryansh107)  
-- 💬 Ask me about **React, Next.js, Node.js, Kubernetes, and DevOps**  
+- 💬 Ask me about **React, Next.js, Node.js, php**  
 - 📫 How to reach me **shryansh2024@gmail.com**  
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Ka-sZKUb0qMCkHoX098esYbFQByaxXBg/view)  
 - ⚡ Fun fact **I love debugging complex systems & automating workflows**  
