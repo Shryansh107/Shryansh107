@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shryansh107&label=Profile%20views&color=0e75b6&style=flat" alt="Shryansh107" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shryansh107&theme=onedark" alt="Shryansh107" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shryansh107&show_icons=true&locale=en&layout=compact" alt="Shryansh107" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shryansh107&show_icons=true&locale=en" alt="Shryansh107" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shryansh107&" alt="Shryansh107" /></p>
   
 - 🌱 Currently Curious and learning  **Blockchain**  
 - 👨‍💻 All of my projects are available at [https://github.com/Shryansh107](https://github.com/Shryansh107)  
@@ -51,8 +55,4 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shryansh107&show_icons=true&locale=en&layout=compact" alt="Shryansh107" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shryansh107&show_icons=true&locale=en" alt="Shryansh107" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shryansh107&" alt="Shryansh107" /></p>
