@@ -53,7 +53,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shryansh107&show_icons=true&locale=en&layout=compact" alt="Shryansh107" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shryansh107&show_icons=true&locale=en" alt="Shryansh107" /></p>
 
 
 
