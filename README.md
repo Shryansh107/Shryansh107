@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shryansh Chaudhary</h1>
-<h3 align="center">21 • Curiosity drives me into deep rabitholes • Engineering Grad Final year @NITH</h3>
+<h3 align="center">21 • Curiosity drives me into deep rabbitholes • Engineering Grad, Final year @NITH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shryansh107&label=Profile%20views&color=0e75b6&style=flat" alt="Shryansh107" /> </p>
 
